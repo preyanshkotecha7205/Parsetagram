@@ -15,8 +15,8 @@ The following **required** functionality is completed:
 
 The following **bonus** features are implemented:
 
-- [ ] User can add a profile picture. (2pts)
-- [ ] Profile pictures are shown for posts and comments. (2pts)
+- [x] User can add a profile picture. (2pts)
+- [x] Profile pictures are shown for posts and comments. (2pts)
 
 ## Video Walkthrough
 
@@ -42,8 +42,8 @@ The following **required** functionality is completed:
 
 The following **bonus** features are implemented:
 
-- [ ] User can pull to refresh. (1pt)
-- [ ] User can load past tweets infinitely. (2pts)
+- [x] User can pull to refresh. (1pt)
+- [x] User can load past tweets infinitely. (2pts)
 
 ## Video Walkthrough
 
